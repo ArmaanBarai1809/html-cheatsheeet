@@ -1,6 +1,6 @@
 # html-cheatsheeet
 
-This is Cheatsheet for "CSS"
+This is Cheatsheet for "HTML"
 by - Armaan.M.Barai
 
 -for feedback
